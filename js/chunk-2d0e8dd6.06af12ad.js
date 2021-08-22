@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e8dd6"],{"8aa8":function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("ts-grid",{attrs:{query:e.query,filter:"imageHighlyRated"}})},u=[],a=n("3516"),i={name:"TheGrid",components:{TsGrid:a["a"]},props:{},data:function(){return{query:{count:10,imageHighlyRated:!0}}},methods:{},computed:{},mounted:function(){}},o=i,d=n("2877"),c=Object(d["a"])(o,r,u,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d0e8dd6.06af12ad.js.map

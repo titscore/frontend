@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d237162"],{fa2c:function(t,n,e){"use strict";e.r(n);var u=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("ts-grid",{attrs:{query:t.query,filter:"reduction",columns:{desktop:4}}})},r=[],o=e("3516"),c={name:"Otituaries",components:{TsGrid:o["a"]},props:{},data:function(){return{query:{count:10,reduction:!0}}},methods:{},computed:{},mounted:function(){}},s=c,i=e("2877"),a=Object(i["a"])(s,u,r,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d237162.98b136e3.js.map
